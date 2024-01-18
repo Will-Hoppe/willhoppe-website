@@ -9,3 +9,7 @@ h1{
 p{
     color:rgb(14, 68, 11)
 }
+#text {
+    color:rgb(95, 109, 212);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
